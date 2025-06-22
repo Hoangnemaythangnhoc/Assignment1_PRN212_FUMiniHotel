@@ -1,0 +1,58 @@
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\FUMiniHotelSystem.exe.config
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\FUMiniHotelSystem.exe
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\FUMiniHotelSystem.pdb
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.csproj.AssemblyReference.cache
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\AdminWindow.baml
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\BookingDialog.baml
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\BookingHistoryWindow.baml
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\CustomerDialog.baml
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\CustomerWindow.baml
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\LoginWindow.baml
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\RoomDialog.baml
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\MainWindow.g.cs
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\AdminWindow.g.cs
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\BookingDialog.g.cs
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\BookingHistoryWindow.g.cs
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\CustomerDialog.g.cs
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\CustomerWindow.g.cs
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\LoginWindow.g.cs
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\RoomDialog.g.cs
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\App.g.cs
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem_MarkupCompile.cache
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem_MarkupCompile.lref
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\MainWindow.baml
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.g.resources
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.Properties.Resources.resources
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.csproj.GenerateResource.cache
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.csproj.CoreCompileInputs.cache
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.exe
+D:\KÌ 5\PRN212\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.pdb
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\FUMiniHotelSystem.exe.config
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\FUMiniHotelSystem.exe
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\FUMiniHotelSystem.pdb
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.csproj.AssemblyReference.cache
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\AdminWindow.baml
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\BookingDialog.baml
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\BookingHistoryWindow.baml
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\CustomerDialog.baml
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\CustomerWindow.baml
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\LoginWindow.baml
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\RoomDialog.baml
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\MainWindow.g.cs
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\AdminWindow.g.cs
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\BookingDialog.g.cs
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\BookingHistoryWindow.g.cs
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\CustomerDialog.g.cs
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\CustomerWindow.g.cs
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\Views\RoomDialog.g.cs
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\App.g.cs
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem_MarkupCompile.cache
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem_MarkupCompile.lref
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\MainWindow.baml
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.g.resources
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.Properties.Resources.resources
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.csproj.GenerateResource.cache
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.csproj.CoreCompileInputs.cache
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.exe
+C:\Users\LP\Desktop\FUminihotel\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\FUMiniHotelSystem.pdb
